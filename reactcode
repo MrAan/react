@@ -1,0 +1,7 @@
+React Code
+
+====================================
+
+Create a Simple JSX Element
+
+const JSX = <div></div>;
